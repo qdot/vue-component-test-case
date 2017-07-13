@@ -1,0 +1,21 @@
+{
+  "name": "vue-test-case",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vue": "^2.3.4"
+  },
+  "devDependencies": {
+    "@types/node": "^8.0.11",
+    "ts-node": "^3.2.0",
+    "typescript": "^2.4.1",
+    "vue-class-component": "^5.0.2",
+    "vue-template-compiler": "^2.3.4"
+  }
+}
